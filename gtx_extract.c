@@ -7,7 +7,7 @@
  * This software is released into the public domain.
  *
  * Special thanks to: libtxc_dxtn developers
- * Tested with Windows.
+ * Tested with TDM-GCC-64 on Windows 10 Pro x64.
  *
  * How to build:
  * gcc -m64 -o gtx_extract gtx_extract.c
