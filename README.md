@@ -5,4 +5,9 @@ Another version of GTX Extractor written in C for NSMBU Textures.
 gcc -m64 -o gtx_extract gtx_extract.c
   
 Requires a 64-bit version of GCC!  
-TDM-GCC-64 is recommended.
+TDM-GCC-64 is recommended.  
+  
+# Credits:  
+* Treeki  
+* AboodXD  
+* libtxc_dxtn
