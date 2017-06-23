@@ -9,5 +9,4 @@ TDM-GCC-64 is recommended.
   
 # Credits:  
 * Treeki  
-* AboodXD  
-* libtxc_dxtn
+* AboodXD
