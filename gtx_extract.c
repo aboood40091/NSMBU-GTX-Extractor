@@ -6,7 +6,6 @@
  *   ( https://github.com/aboood40091 )
  * This software is released into the public domain.
  *
- * Special thanks to: libtxc_dxtn developers
  * Tested with TDM-GCC-64 on Windows 10 Pro x64.
  *
  * How to build:
